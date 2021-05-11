@@ -1,0 +1,25 @@
+{
+  "name": "javascript-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-minify": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimirblockchainsolutions/MAPay-javascript-library.git"
+  },
+  "author": "Lanchana Shivananda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimirblockchainsolutions/MAPay-javascript-library/issues"
+  },
+  "homepage": "https://github.com/mimirblockchainsolutions/MAPay-javascript-library#readme"
+}

@@ -1,0 +1,1 @@
+function validateForm(){(new ContractInterface).contract("totalSupply",[]).then(o=>{console.log(o)},o=>{console.log(o)})}
